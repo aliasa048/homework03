@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+
+
+.blue-area{
+    height: 100px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 20px;
+
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+.green{
+    width: 700px;
+    height: 150px;
+    background-color: green;
+    box-sizing: border-box;
+    margin-left: 650px;
+    padding: 25px;
+}
+.red{
+    height: 90px;
+    width: 350px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: red;
+    padding: 30px;
+    margin-left: 750px;
+    
+}
+a{
+    color: white;
+}
+p{
+    color: white;
+}
+.green p{
+    color: black;
+}
+.darkblue{
+    height: 450px;
+    background-color: rgb(36, 12, 122);
+   box-sizing: border-box;
+   padding: 50px;
+
+}
